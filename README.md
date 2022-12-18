@@ -61,7 +61,8 @@
    <img src="https://img.shields.io/badge/VIM-2311AB00?style=for-the-badge&logo=vim&logoColor=white"/>
    <img src="https://img.shields.io/badge/TOR-%237E4798?style=for-the-badge&logo=tor-project&logoColor=white"/>
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-   
+   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
 </div>
 
 
