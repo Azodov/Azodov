@@ -11,7 +11,9 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azodov&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azodov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Azodov Doniyor" /></div>
+<div align="center">
+   <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Azodov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Azodov Doniyor" />
+</div>
 
 
 <div align="center">
@@ -38,6 +40,7 @@
    <img src="https://img.shields.io/badge/Bootstrap 5-07405E?style=for-the-badge&logo=Bootstrap&logoColor=green"/>
 </div>
 
+
 <div align="center">
    <h1>Technologies</h1>
    <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
@@ -46,6 +49,7 @@
    <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white"/>
    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
+
 
 <div align="center">
    <h1>Developers Tools</h1>
@@ -76,5 +80,4 @@
    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white"/>
    <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/>
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
