@@ -2,7 +2,7 @@
 
 
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Azodov&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=azodov&theme=react-dark&hide_border=true&area=true" />
 </div> 
 
 
