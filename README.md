@@ -19,6 +19,7 @@
 <div align="center">
    <h1>Main Skills</h1>
    <img src="https://img.shields.io/badge/Java 11-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Java 17-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python 3-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
 
